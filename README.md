@@ -1,1 +1,1 @@
-# aws-bedrock-lambda-tutorial.md
+# aws-bedrock-lambda-tutorial
